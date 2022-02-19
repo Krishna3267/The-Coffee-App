@@ -28,4 +28,4 @@ Before a good bye I'd like to mention that 🌃 <a href="https://www.youtube.com
 A very USEFUL thing for you, me, us and all 🙂:
 <a href="https://firebase.flutter.dev/docs/migration/">Firebase Migration Guide</a> as the name says, it lets you know what has changed with the new version.
 
-Baki toh sab samajhdar hi hai 🙏. Ye toh bas feelings express karneka man hua toh itna sab likh diya.
+Baki kuch nahi🙏. Ye toh bas feelings express karneka man hua toh likh diya.

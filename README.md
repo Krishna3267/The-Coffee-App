@@ -1,4 +1,4 @@
-# Brew Crew ☕
+# The Coffee App ☕
 
 My first Flutter project🌱 <br>
 Made it while learning Dart, Flutter & Firebase along with The Net Ninja. <br>
